@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "javascript.suggest.enabled": false,
+    "typescript.suggest.enabled": false,
+    "javascript.suggest.completeJSDocs": true,
+    "typescript.suggest.completeJSDocs": true,
+    "files.autoSave": "onFocusChange"
+}
